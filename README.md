@@ -1,28 +1,27 @@
-# Moon Jekyll Theme
-    
-######(If you like this theme or using it, please give a :star: for motivation.)
+# jekyll-theme-hackcss
 
-**[Moon](http://taylantatli.github.io/Moon)** is a minimal, one column jekyll theme.
+[Dead simple CSS framework](http://hackcss.com/) now with Jekyll.
 
-## Features
-* Minimal, you can focus on your content
-* Responsive
-* Disqus integration
-* Syntax highlighting
-* Optional post image
-* Social icons
-* Page for sharing projects
-* Optional background image
-* Simple navigation menu
-* MathJax support
+Mobile-ready, modern, stylish, simple.
 
-## Preview
+## Theme modes
 
-![screenshot of Moon](https://cloud.githubusercontent.com/assets/754514/14509720/61c61058-01d6-11e6-93ab-0918515ecd56.png)    
-![screenshot of Moon](https://cloud.githubusercontent.com/assets/754514/14509716/61ac6c8e-01d6-11e6-879f-8308883de790.png)
+This theme comes in three modes, which could be configured in `_config.yml`.
 
-See a [live version of Moon](http://taylantatli.github.io/Moon) hosted on GitHub.
+![Standard](https://raw.githubusercontent.com/wemake-services/jekyll-theme-hackcss/3cbe97b71a56a19eba386dd928e125b71e50c71e/images/standard.png)
 
-## Getting Started
+![Dark](https://raw.githubusercontent.com/wemake-services/jekyll-theme-hackcss/3cbe97b71a56a19eba386dd928e125b71e50c71e/images/dark.png)
 
-To learn how to install and use this theme check out the [Setup Guide](http://taylantatli.me/Moon/moon-theme/) for more information.
+![Markdown](https://raw.githubusercontent.com/wemake-services/jekyll-theme-hackcss/3cbe97b71a56a19eba386dd928e125b71e50c71e/images/markdown.png)
+
+## Installation
+
+Clone this repo. Create your own website. Easy.
+
+## Configuration
+
+See [docs](https://github.com/wemake-services/jekyll-theme-hackcss/blob/master/docs.md).
+
+## License
+
+GNU PGL 3. See [LICENSE](https://github.com/wemake-services/jekyll-theme-hackcss/blob/3cbe97b71a56a19eba386dd928e125b71e50c71e/LICENSE) for more information.
